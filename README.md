@@ -1,6 +1,12 @@
 # Rust & Linux mostly. Some Android, distributed, mesh and satellite tech.
 
-Please subscribe to [issue #1](https://github.com/peter-lyons-kehl/blog/issues/1) to get updates on new articles (or major edits).
+## Subscribe
+
+- If you have a GitHub account, you can subscribe to
+  [issue #1](https://github.com/peter-lyons-kehl/blog/issues/1) to get updates on new articles (or
+  major edits).
+- Or subscribe to the
+  [Atom (RSS-like) feed](https://github.com/peter-lyons-kehl/blog/commits/main.atom).
 
 ## Articles:
 
