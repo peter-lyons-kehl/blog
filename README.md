@@ -10,5 +10,5 @@
 
 ## Articles:
 
-- [issue #1](https://github.com/peter-lyons-kehl/blog/issues/2) Rules of thumb on Rust for managers
+- [issue #2](https://github.com/peter-lyons-kehl/blog/issues/2) Rules of thumb on Rust for managers
 
